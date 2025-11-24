@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-python options_analyzer.py
+python main.py
 ```
 
 ## Output
